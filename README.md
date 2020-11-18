@@ -8,7 +8,7 @@ The original code was upgraded from Python 2 to Python 3 using the [lib2to3](htt
 
 ## Requirements  
   * Python 3.5 (3+)  
-  * Django 1.5+  
+  * Django 1.11  
 
 ## Installation  
 ```
